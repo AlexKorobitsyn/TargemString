@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 \u0441 \u043A\u043E\u043C\u043F\u0430\\solution clock\\StringDynamic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC045B9-CDF2-480C-AE07-E3567EC9C6B5}|StringDynamic\\StringDynamic.vcxproj|S:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 \u0441 \u043A\u043E\u043C\u043F\u0430\\solution clock\\StringDynamic\\StringDynamic\\StringDynamic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EC045B9-CDF2-480C-AE07-E3567EC9C6B5}|StringDynamic\\StringDynamic.vcxproj|solutionrelative:StringDynamic\\StringDynamic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringDynamic.cpp",
+              "DocumentMoniker": "S:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 \u0441 \u043A\u043E\u043C\u043F\u0430\\solution clock\\StringDynamic\\StringDynamic\\StringDynamic.cpp",
+              "RelativeDocumentMoniker": "StringDynamic\\StringDynamic.cpp",
+              "ToolTip": "S:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438 \u0441 \u043A\u043E\u043C\u043F\u0430\\solution clock\\StringDynamic\\StringDynamic\\StringDynamic.cpp*",
+              "RelativeToolTip": "StringDynamic\\StringDynamic.cpp*",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAH8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T09:53:03.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

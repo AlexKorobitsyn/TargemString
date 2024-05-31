@@ -1,0 +1,8 @@
+﻿  StringDynamic.cpp
+S:\Загрузки с компа\solution clock\StringDynamic\StringDynamic\StringDynamic.cpp(14,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+S:\Загрузки с компа\solution clock\StringDynamic\StringDynamic\StringDynamic.cpp(87,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+S:\Загрузки с компа\solution clock\StringDynamic\StringDynamic\StringDynamic.cpp(88,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+S:\Загрузки с компа\solution clock\StringDynamic\StringDynamic\StringDynamic.cpp(98,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+S:\Загрузки с компа\solution clock\StringDynamic\StringDynamic\StringDynamic.cpp(99,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+S:\Загрузки с компа\solution clock\StringDynamic\StringDynamic\StringDynamic.cpp(137,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  StringDynamic.vcxproj -> S:\Загрузки с компа\solution clock\StringDynamic\x64\Debug\StringDynamic.exe
